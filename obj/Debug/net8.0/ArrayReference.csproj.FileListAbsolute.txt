@@ -1,0 +1,14 @@
+C:\Users\paulo\Downloads\Willian\ArrayReference\ArrayReference\bin\Debug\net8.0\ArrayReference.exe
+C:\Users\paulo\Downloads\Willian\ArrayReference\ArrayReference\bin\Debug\net8.0\ArrayReference.deps.json
+C:\Users\paulo\Downloads\Willian\ArrayReference\ArrayReference\bin\Debug\net8.0\ArrayReference.runtimeconfig.json
+C:\Users\paulo\Downloads\Willian\ArrayReference\ArrayReference\bin\Debug\net8.0\ArrayReference.dll
+C:\Users\paulo\Downloads\Willian\ArrayReference\ArrayReference\bin\Debug\net8.0\ArrayReference.pdb
+C:\Users\paulo\Downloads\Willian\ArrayReference\ArrayReference\obj\Debug\net8.0\ArrayReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Downloads\Willian\ArrayReference\ArrayReference\obj\Debug\net8.0\ArrayReference.AssemblyInfoInputs.cache
+C:\Users\paulo\Downloads\Willian\ArrayReference\ArrayReference\obj\Debug\net8.0\ArrayReference.AssemblyInfo.cs
+C:\Users\paulo\Downloads\Willian\ArrayReference\ArrayReference\obj\Debug\net8.0\ArrayReference.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Downloads\Willian\ArrayReference\ArrayReference\obj\Debug\net8.0\ArrayReference.dll
+C:\Users\paulo\Downloads\Willian\ArrayReference\ArrayReference\obj\Debug\net8.0\refint\ArrayReference.dll
+C:\Users\paulo\Downloads\Willian\ArrayReference\ArrayReference\obj\Debug\net8.0\ArrayReference.pdb
+C:\Users\paulo\Downloads\Willian\ArrayReference\ArrayReference\obj\Debug\net8.0\ArrayReference.genruntimeconfig.cache
+C:\Users\paulo\Downloads\Willian\ArrayReference\ArrayReference\obj\Debug\net8.0\ref\ArrayReference.dll
